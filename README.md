@@ -1,11 +1,7 @@
 # SSIP Judicial Management System
 
-Welcome to the SSIP Judicial Management System! This React-based web application is developed as part of the SSIP (Students Startup and Innovation Policy) project, aimed at modernizing and digitizing judicial processes. Our system provides comprehensive management of court cases, witnesses, evidence, and other legal proceedings, offering a streamlined and efficient solution for judicial administration.
-
-## About Us
-
-The SSIP Judicial Management System is a revolutionary platform designed to transform the way judicial works are conducted. By digitizing court processes and centralizing case management, our system aims to improve efficiency, transparency, and accessibility in the judicial system. With a user-friendly interface and advanced features, we empower legal professionals to effectively manage cases, streamline workflows, and uphold justice.
-
+Welcome to the SSIP Judicial Management System! This React-based web application is developed as part of the SSIP (Students Startup and Innovation Policy) , aimed at modernizing and digitizing judicial processes. Our system provides comprehensive management of court cases, witnesses, evidence, and other legal proceedings, offering a streamlined and efficient solution for judicial administration.
+ 
 ## Project Details
 
 This project repository serves as the frontend infrastructure for the SSIP Judicial Management System. Here, you can find information about the React components, state management, API integration, and other related details.
